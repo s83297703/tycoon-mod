@@ -1,33 +1,39 @@
 { "ADS":
     {
   
-       "cpa_image":"yandex",
+      "cpa_image":"yandex",
       "cpa_title":"yandex",
       "cpa_sous_title":"yandex",
       "cpa_url":"yandex",
-      "show_cpa":true,
+      "show_cpa":false,
 
       "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
         
         
-      "banner_type":"admob",
-      "inter_type":"admob",
-      "native_type":"admob",
-      "reward_type":"admob",
+      "banner_type":"yandex",
+      "inter_type":"yandex",
+      "native_type":"yandex",
+      "reward_type":"yandex",
       
 
       "ironsource_id":"jhd78302",
       "unity_id":"87320283",
      
 
-      "banner_yandex":"R-M-DEMO-300x50",
-      "native_yandex":"R-M-DEMO-interstitial",
-      "interstitial_yandex":"R-M-DEMO-native-i",
-      "rewarde_yandex":"R-M-DEMO-300x50",
+      "banner_yandex":"R-M-2142492-1",
+      "native_yandex":"R-M-2142492-2",
+      "interstitial_yandex":"R-M-2142492-3",
+      "rewarde_yandex":"R-M-2142492-4",
+        
+        
+        "banner_huawei":"testw6vs28auh3",
+        "interstitial_huawei":"teste9ih9j0rc3",
+ 	"reward_huawei":"testx9dtjwj8hp",
+        "native_huawei":"testy63txaom86",
 
-      "openapp_admob":"ca-app-pub-3940256099942544/3419835294",
+      
        "banner_admob":"ca-app-pub-3940256099942544/6300978111",
       "native_admob":"ca-app-pub-3940256099942544/2247696110",
       "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
@@ -117,7 +123,6 @@
       "commentNumbers": " 1333 COMMENTS",
       "downloadNumbers": "4464 DOWNLOADS",
       "description": "TO Download this Mod Game Please Click In The Buton Bellow."
-       
     }
   ], "Apps": [
     {
